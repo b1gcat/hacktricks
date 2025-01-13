@@ -44,4 +44,4 @@ level = 0     # the depth to start folding
 [output.pdf]
 
 [output.html.print]
-enable = false # whether or not to enable print
+enable = true # whether or not to enable print
